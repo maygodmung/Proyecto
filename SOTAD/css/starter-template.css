@@ -1,0 +1,37 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+#logo{
+	height: 50px;
+	width: 70px;
+}
+
+nav.navbar {
+    background-color: #FF7824;
+}
+
+nav.navbar ul.nav li:hover{
+    background-color: #FF8D24;
+}
+
+.active{
+	background-color: #898989;
+}
+
+ul li a{
+	color: #fff;
+}
+
+.jumbotron
+{
+	background-color: grey;
+}
+
+#reserva
+{
+	color: #fff;
+}
